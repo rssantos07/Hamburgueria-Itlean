@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "it_lean",
+    "slug": "it_lean",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "it_lean"
+}
